@@ -605,5 +605,16 @@
         "version": "1.1.1",
         "location": "https://hub.docker.com/r/arm64v8/irssi",
         "type": "docker"
+    },
+    {
+        "description": "My app",
+        "repository": "qnap",
+        "arch": "arm64",
+        "icon": "",
+        "displayName": "wechat-backup",
+        "name": "wechat-cloud-backup",
+        "version": "0.0.2",
+        "location": "http://192.168.50.51:6088/wechat-cloud-backup",
+        "type": "docker"
     }
 ]

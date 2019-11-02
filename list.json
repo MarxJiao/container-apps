@@ -1,5 +1,16 @@
 [
     {
+        "description": "My app",
+        "repository": "qnap",
+        "arch": "arm64",
+        "icon": "",
+        "displayName": "wechat-backup",
+        "name": "wechat-cloud-backup",
+        "version": "0.0.2",
+        "location": "http://192.168.50.51:6088/wechat-cloud-backup",
+        "type": "docker"
+    },
+    {
         "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
         "repository": "dockerhub",
         "arch": "amd64",
